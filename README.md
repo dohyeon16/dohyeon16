@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg?v=3" width="100%" alt="Do-hyeon Kim">
+<img src="./assets/banner-v2.svg" width="100%" alt="Do-hyeon Kim">
 
 ## 👋 About Me
 
