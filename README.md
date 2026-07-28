@@ -18,42 +18,50 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Backend-4A4A4A?style=for-the-badge&logo=serverfault&logoColor=white">
 </p>
 
-### Embedded · Hardware
+### Embedded
 
 <p>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/IAR%20Embedded%20Workbench-D71920?style=for-the-badge&logo=codeblocks&logoColor=white">
-  <img src="https://img.shields.io/badge/SOLIDWORKS-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
-  <img src="https://img.shields.io/badge/Bambu%20Lab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white">
 </p>
 
 ### Protocols
 
 <p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=internetcomputer&logoColor=white">
   <img src="https://img.shields.io/badge/UART-1565C0?style=for-the-badge&logo=serialport&logoColor=white">
+  <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=internetcomputer&logoColor=white">
 </p>
 
 ### App · Web
 
 <p>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Backend-4A4A4A?style=for-the-badge&logo=serverfault&logoColor=white">
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+</p>
+
+### Design · 3D
+
+<p>
+  <img src="https://img.shields.io/badge/SOLIDWORKS-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
+  <img src="https://img.shields.io/badge/Bambu%20Lab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white">
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/IAR%20Embedded%20Workbench-D71920?style=for-the-badge&logo=codeblocks&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 </p>
 
 <br>
