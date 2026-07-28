@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00BFA6&height=220&section=header&text=Dohyeon&fontSize=60&fontColor=ffffff&animation=fadeIn)
+<img src="./assets/banner.svg" width="100%" alt="Dohyeon">
 
 ## 👋 About Me
 
