@@ -6,7 +6,6 @@
 
 - React Native 기반 WorkProof 앱 개발
 - STM32 기반 통신 및 제어
-- LLM 기반 음성 제어 자율주행 배송 로봇 하드웨어 제작
 
 <br>
 
