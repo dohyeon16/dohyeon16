@@ -1,6 +1,6 @@
-<img src="./assets/banner-v4.svg" width="100%" alt="Do-hyeon Kim">
+<img src="./assets/banner.svg" width="100%" alt="Do-hyeon Kim">
 
-## <img src="./assets/icon-stack-v5.svg" height="18"> Tech Stack
+## <img src="./assets/icon-stack.svg" height="18"> Tech Stack
 
 **`LANGUAGES`**
 
@@ -40,6 +40,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5E4394?style=flat-square&logo=visualstudio&logoColor=white">
 </p>
 
-## <img src="./assets/icon-mail-v3.svg" height="18"> Contact
+## <img src="./assets/icon-mail.svg" height="18"> Contact
 
 [gdohyeon517@gmail.com](mailto:gdohyeon517@gmail.com)
