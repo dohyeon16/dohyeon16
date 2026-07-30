@@ -40,4 +40,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5E4394?style=flat-square&logo=visualstudio&logoColor=white">
 </p>
 
-📫 [gdohyeon517@gmail.com](mailto:gdohyeon517@gmail.com)
+## 📫 Contact
+
+[gdohyeon517@gmail.com](mailto:gdohyeon517@gmail.com)
