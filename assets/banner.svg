@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Do-hyeon Kim — Embedded, Mobile, AI">
+  <title>Do-hyeon Kim — Embedded · Mobile · AI</title>
+  <style>
+    .wave {
+      stroke-dasharray: 46 18;
+      animation: march 2.8s linear infinite;
+    }
+    @keyframes march {
+      to { stroke-dashoffset: -64; }
+    }
+    .pulse { animation: pulse 3.2s ease-in-out infinite; }
+    .pulse.d1 { animation-delay: 0s; }
+    .pulse.d2 { animation-delay: 1.1s; }
+    .pulse.d3 { animation-delay: 2.2s; }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.25; }
+      50% { opacity: 0.9; }
+    }
+    .turn { animation: turn 9s ease-in-out infinite; opacity: 0.35; }
+    .turn.t1 { animation-delay: 0s; }
+    .turn.t2 { animation-delay: 3s; }
+    .turn.t3 { animation-delay: 6s; }
+    @keyframes turn {
+      0%, 30%, 100% { opacity: 0.35; }
+      8%, 22% { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .wave, .pulse, .turn { animation: none; opacity: 0.8; }
+    }
+  </style>
+
+  <rect width="1200" height="280" fill="#0D1B2A"/>
+
+  <!-- subtle grid -->
+  <g stroke="#16283C" stroke-width="1">
+    <line x1="0" y1="93" x2="1200" y2="93"/>
+    <line x1="0" y1="187" x2="1200" y2="187"/>
+    <line x1="300" y1="0" x2="300" y2="280"/>
+    <line x1="600" y1="0" x2="600" y2="280"/>
+    <line x1="900" y1="0" x2="900" y2="280"/>
+  </g>
+
+  <!-- grid crossing marks -->
+  <g stroke="#2A4258" stroke-width="1.5" stroke-linecap="round">
+    <path d="M296 93h8M300 89v8"/>
+    <path d="M596 187h8M600 183v8"/>
+    <path d="M896 93h8M900 89v8"/>
+  </g>
+
+  <!-- PCB traces -->
+  <g fill="none" stroke="#22384F" stroke-width="2">
+    <path id="t1" d="M560 68 H726 L754 96 H842"/>
+    <path d="M600 216 H700 L728 188 H816"/>
+    <path d="M660 118 H760"/>
+  </g>
+
+  <!-- trace end dots: staggered pulse -->
+  <g fill="#4FD1B5">
+    <circle class="pulse d1" cx="842" cy="96" r="3.5"/>
+    <circle class="pulse d2" cx="816" cy="188" r="3.5"/>
+    <circle class="pulse d3" cx="760" cy="118" r="3.5"/>
+    <circle class="pulse d2" cx="560" cy="68" r="3.5"/>
+  </g>
+
+  <!-- data packet traveling the top trace -->
+  <circle r="3" fill="#4FD1B5">
+    <animateMotion dur="4.5s" repeatCount="indefinite">
+      <mpath href="#t1"/>
+    </animateMotion>
+  </circle>
+
+  <!-- icon row: chip / phone / neural net — take turns lighting up -->
+  <g fill="none" stroke="#4FD1B5" stroke-width="2.4" stroke-linecap="round">
+    <g class="turn t1">
+      <rect x="912" y="122" width="36" height="36" rx="5"/>
+      <rect x="923" y="133" width="14" height="14" rx="2"/>
+      <path d="M920 122v-8M930 122v-8M940 122v-8M920 158v8M930 158v8M940 158v8M912 130h-8M912 140h-8M912 150h-8M948 130h8M948 140h8M948 150h8"/>
+    </g>
+    <g class="turn t2">
+      <rect x="1002" y="116" width="27" height="48" rx="5"/>
+      <path d="M1010 124h11"/>
+      <circle cx="1015.5" cy="155" r="2"/>
+    </g>
+    <g class="turn t3">
+      <path d="M1100 140l-14-14M1100 140l14-14M1100 140l-14 14M1100 140l14 14"/>
+      <circle cx="1100" cy="140" r="5"/>
+      <circle cx="1084" cy="124" r="4"/>
+      <circle cx="1116" cy="124" r="4"/>
+      <circle cx="1084" cy="156" r="4"/>
+      <circle cx="1116" cy="156" r="4"/>
+    </g>
+  </g>
+
+  <!-- accent bar -->
+  <rect x="80" y="88" width="34" height="5" fill="#4FD1B5"/>
+
+  <!-- name -->
+  <text x="80" y="152" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="60" font-weight="700" fill="#F1F5F9" letter-spacing="-1.5">Do-hyeon Kim</text>
+
+  <!-- subtitle -->
+  <text x="82" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="16" fill="#7E93A8" letter-spacing="3.5">EMBEDDED · MOBILE · AI</text>
+
+  <!-- UART waveform: marching -->
+  <path class="wave" d="M0 252 H90 V236 H150 V252 H240 V236 H330 V252 H400 V236 H480 V252 H580 V236 H650 V252 H760 V236 H830 V252 H930 V236 H1010 V252 H1110 V236 H1200"
+        fill="none" stroke="#4FD1B5" stroke-width="2" opacity="0.55"/>
+</svg>
