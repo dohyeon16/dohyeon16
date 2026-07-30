@@ -16,12 +16,12 @@
       0%, 100% { opacity: 0.25; }
       50% { opacity: 0.9; }
     }
-    .turn { animation: turn 9s ease-in-out infinite; opacity: 0.35; }
+    .turn { animation: turn 9s ease-in-out infinite; opacity: 0.55; }
     .turn.t1 { animation-delay: 0s; }
     .turn.t2 { animation-delay: 3s; }
     .turn.t3 { animation-delay: 6s; }
     @keyframes turn {
-      0%, 30%, 100% { opacity: 0.35; }
+      0%, 30%, 100% { opacity: 0.55; }
       8%, 22% { opacity: 1; }
     }
     @media (prefers-reduced-motion: reduce) {
