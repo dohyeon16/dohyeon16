@@ -42,4 +42,4 @@
 
 ## <img src="./assets/icon-mail.svg" height="18"> Contact
 
-[gdohyeon517@gmail.com](mailto:gdohyeon517@gmail.com)
+<a href="mailto:gdohyeon517@gmail.com"><img src="https://img.shields.io/badge/Email-gdohyeon517%40gmail.com-1F3A5F?style=flat-square&logo=gmail&logoColor=white"></a>
