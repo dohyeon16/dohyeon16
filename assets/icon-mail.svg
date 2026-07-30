@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" role="img" aria-label="Contact icon">
   <title>Contact</title>
-  <rect x="0" y="0" width="24" height="24" rx="6" fill="#0D1B2A"/>
+  <rect x="0.5" y="0.5" width="23" height="23" rx="6" fill="#0D1B2A" stroke="#3A506B" stroke-width="1"/>
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
     <rect x="5.5" y="7" width="13" height="10" rx="1.8" stroke="#F1F5F9" stroke-width="1.9"/>
     <path d="M6.5 8.5 12 12.5l5.5-4" stroke="#4FD1B5" stroke-width="1.9"/>
