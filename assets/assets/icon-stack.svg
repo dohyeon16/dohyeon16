@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Tech stack icon">
+  <title>Tech Stack</title>
+  <defs>
+    <linearGradient id="ig" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2E9C86"/>
+      <stop offset="1" stop-color="#8CCB5E"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#ig)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="13" y="13" width="22" height="22" rx="4"/>
+    <rect x="20.5" y="20.5" width="7" height="7" rx="1.5"/>
+    <path d="M19 13V7M24 13V7M29 13V7M19 35v6M24 35v6M29 35v6M13 19H7M13 24H7M13 29H7M35 19h6M35 24h6M35 29h6"/>
+  </g>
+</svg>
