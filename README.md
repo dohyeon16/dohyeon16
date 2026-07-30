@@ -1,6 +1,6 @@
-<img src="./assets/banner-v2.svg" width="100%" alt="Do-hyeon Kim">
+<img src="./assets/banner-v4.svg" width="100%" alt="Do-hyeon Kim">
 
-## <img src="./assets/icon-stack.svg" height="22"> Tech Stack
+## <img src="./assets/icon-stack-v2.svg" height="20"> Tech Stack
 
 **`LANGUAGES`**
 
