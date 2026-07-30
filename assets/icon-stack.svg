@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" role="img" aria-label="Tech stack icon">
   <title>Tech Stack</title>
-  <rect x="0" y="0" width="24" height="24" rx="6" fill="#0D1B2A"/>
+  <rect x="0.5" y="0.5" width="23" height="23" rx="6" fill="#0D1B2A" stroke="#3A506B" stroke-width="1"/>
   <g stroke-linecap="round">
     <path d="M6.5 7h11" stroke="#F1F5F9" stroke-width="2.6"/>
     <path d="M6.5 12h11" stroke="#F1F5F9" stroke-width="2.6" opacity="0.75"/>
