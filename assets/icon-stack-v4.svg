@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 32" width="24" height="32" role="img" aria-label="Tech stack icon">
-  <title>Tech Stack</title>
-  <rect x="0" y="8" width="24" height="24" rx="6" fill="#1B2B3F"/>
-  <g stroke-linecap="round">
-    <path d="M6.5 15h11" stroke="#F1F5F9" stroke-width="2.6"/>
-    <path d="M6.5 20h11" stroke="#F1F5F9" stroke-width="2.6" opacity="0.75"/>
-    <path d="M6.5 25h11" stroke="#4FD1B5" stroke-width="2.6"/>
-  </g>
-</svg>
