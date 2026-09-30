@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Do-hyeon Kim">
+<img src="./assets/banner.svg" width="100%" alt="Do-hyeon Kim — Mobile · AI · Embedded">
 
 ## <img src="./assets/icon-stack.svg" height="18"> Tech Stack
 
