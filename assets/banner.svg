@@ -69,26 +69,36 @@
     </animateMotion>
   </circle>
 
-  <!-- icon row: chip / phone / neural net — take turns lighting up -->
-  <g fill="none" stroke="#4FD1B5" stroke-width="2.4" stroke-linecap="round">
-    <g class="turn t1">
-      <rect x="912" y="122" width="36" height="36" rx="5"/>
-      <rect x="923" y="133" width="14" height="14" rx="2"/>
-      <path d="M920 122v-8M930 122v-8M940 122v-8M920 158v8M930 158v8M940 158v8M912 130h-8M912 140h-8M912 150h-8M948 130h8M948 140h8M948 150h8"/>
-    </g>
-    <g class="turn t2">
-      <rect x="1002" y="116" width="27" height="48" rx="5"/>
-      <path d="M1010 124h11"/>
-      <circle cx="1015.5" cy="155" r="2"/>
-    </g>
-    <g class="turn t3">
-      <path d="M1100 140l-14-14M1100 140l14-14M1100 140l-14 14M1100 140l14 14"/>
-      <circle cx="1100" cy="140" r="5"/>
-      <circle cx="1084" cy="124" r="4"/>
-      <circle cx="1116" cy="124" r="4"/>
-      <circle cx="1084" cy="156" r="4"/>
-      <circle cx="1116" cy="156" r="4"/>
-    </g>
+  <!-- icon row: mobile / AI / embedded — take turns lighting up --> 
+  <g fill="none" stroke="#4FD1B5" stroke-width="2.4" stroke-linecap="round"> 
+
+    <!-- Mobile -->
+    <g class="turn t1"> 
+      <rect x="916.5" y="116" width="27" height="48" rx="5"/> 
+      <path d="M924.5 124h11"/> 
+      <circle cx="930" cy="155" r="2"/> 
+    </g> 
+
+    <!-- AI -->
+    <g class="turn t2"> 
+      <path d="M1015 140l-16-16M1015 140l16-16M1015 140l-16 16M1015 140l16 16"/> 
+      <circle cx="1015" cy="140" r="5"/> 
+      <circle cx="999" cy="124" r="4"/> 
+      <circle cx="1031" cy="124" r="4"/> 
+      <circle cx="999" cy="156" r="4"/> 
+      <circle cx="1031" cy="156" r="4"/> 
+    </g> 
+
+    <!-- Embedded -->
+    <g class="turn t3"> 
+      <rect x="1082" y="122" width="36" height="36" rx="5"/> 
+      <rect x="1093" y="133" width="14" height="14" rx="2"/> 
+      <path d="M1090 122v-8M1100 122v-8M1110 122v-8
+               M1090 158v8M1100 158v8M1110 158v8
+               M1082 130h-8M1082 140h-8M1082 150h-8
+               M1118 130h8M1118 140h8M1118 150h8"/> 
+    </g> 
+
   </g>
 
   <!-- accent bar -->
