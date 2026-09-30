@@ -24,6 +24,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/React%20Native-2380A6?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Expo-3A4149?style=flat-square&logo=expo&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-0E7D72?style=flat-square&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-3E5566?style=flat-square">
