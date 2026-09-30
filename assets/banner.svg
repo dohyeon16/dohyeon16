@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Do-hyeon Kim — Embedded, Mobile, AI">
-  <title>Do-hyeon Kim —  Embedded · Mobile · AI</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Do-hyeon Kim — Mobile, AI, Embedded"> 
+  <title>Do-hyeon Kim — Mobile · AI · Embedded</title> 
   <style>
     .wave {
       stroke-dasharray: 46 18;
@@ -99,8 +99,8 @@
         font-size="60" font-weight="700" fill="#F1F5F9" letter-spacing="-1.5">Do-hyeon Kim</text>
 
   <!-- subtitle -->
-  <text x="82" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-        font-size="16" fill="#7E93A8" letter-spacing="3.5">EMBEDDED · MOBILE · AI</text>
+  <text x="82" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" 
+        font-size="16" fill="#7E93A8" letter-spacing="3.5">MOBILE · AI · EMBEDDED</text>
 
   <!-- UART waveform: marching -->
   <path class="wave" d="M0 252 H90 V236 H150 V252 H240 V236 H330 V252 H400 V236 H480 V252 H580 V236 H650 V252 H760 V236 H830 V252 H930 V236 H1010 V252 H1110 V236 H1200"
